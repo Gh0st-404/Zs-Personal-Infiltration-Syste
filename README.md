@@ -13,5 +13,5 @@
 
 ## 演示界面
 哈哈哈
-(https：//github.com/Gh0st-404/Zs-Personal-Infiltration-Syste
-/raw/master/演示界面.png)
+(https://github.com/Gh0st-404/Zs-Personal-Infiltration-Syste
+/raw/master/Zs-Personal-Infiltration-Syste/演示界面.png)
