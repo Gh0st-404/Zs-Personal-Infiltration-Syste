@@ -11,3 +11,4 @@
   <p>系统登录密码：Gh0st</p>
   <p>Windows平台下直接打开即可，因附加工具会误报毒，请关闭杀毒打开，谢谢！</p>
   <p>本系统并没有什么技术含量，望各位大佬们可以多多指正，如有BUG或者建议可以请发至我的邮箱<a href="mailto:a1659068980@163.com">a1659068980@163.com</a></p>
+![](https://github.com/Gh0st-404/Zs-Personal-Infiltration-Syste/blob/master/demo/demo.png?raw=true)
